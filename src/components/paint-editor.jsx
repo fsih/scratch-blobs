@@ -4,7 +4,7 @@ export default class PaintEditorComponent extends React.Component {
     render () {
         return (
             <div className="paint-editor">
-                BANANAS
+                BANANANAS
             </div>
         );
     }
